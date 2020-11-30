@@ -4,10 +4,11 @@
 > VSCode (IDE) <br>
 > Angular 11 <br>
 > CSS <br>
+> HTML
 > Typescript <br>
 > Angular Material <br>
 > 
 ### Link para o backend 
 > https://github.com/MichelliBrito/agendalive <br>
 ### Créditos 
-> Michelli Brinto <br>
+> Michelli Brito <br>
