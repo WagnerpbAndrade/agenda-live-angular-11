@@ -4,7 +4,7 @@
 > VSCode (IDE) <br>
 > Angular 11 <br>
 > CSS <br>
-> HTML
+> HTML <br>
 > Typescript <br>
 > Angular Material <br>
 > 
