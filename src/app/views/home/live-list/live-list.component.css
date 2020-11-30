@@ -1,0 +1,43 @@
+.tab-list {
+    padding-top: 40px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.content-live {
+    padding: 2%;
+}
+
+.div-card {
+    margin: 0.5%;
+}
+
+.mat-card-live{
+    border: 1px solid #CFD8DC;
+    border-radius: 4px 3px 6px / 2px 4px;
+    padding-top: 15px;  
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+    margin: 5px;
+}
+
+.mat-span-live-name {
+    font-size: 0.9rem;
+}
+
+.mat-span-live-date {
+    font-size: 0.7rem;
+}
+
+.mat-span-live-channel {
+    font-size: 0.7rem;
+}
+
+.mat-card-title-live {
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-right: 15px;
+    margin-bottom: 0px;
+    min-height: 70px;
+}
