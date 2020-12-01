@@ -1,8 +1,8 @@
 # Agendalive feito com Angular 11
 
-![alt text](./telas/home-page.PNG "Lives") <br>
+![alt text](telas/home-page.PNG "Lives") <br>
 
-![alt text](./telas/nova-live.PNG "Nova live") <br>
+![alt text](telas/nova-live.PNG "Nova live") <br>
 
 ### Ferramentas e Tecnologias
 > VSCode (IDE) <br>
